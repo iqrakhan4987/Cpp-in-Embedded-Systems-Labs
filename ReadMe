@@ -1,0 +1,8 @@
+The purpose of this project is to create a simple radar to detect objects in its path. The distance of the object is also detected. The required materials are : Ultrasonic sensor, servo motor , an indicator LED, resistor, mbed board  and the Processing software.
+The mbed board is programmed on Keil studio. The angle and distance is printed on the serial monitor. The processing software reads this angle and distance and displays the radar map.
+
+The mbed code is in the "Keil Studio Code" file. I used mbed OS version 5. 
+
+The processing code is in the "Processing code for Radar Map" file. This is not my code. I used the code provided by https://howtomechatronics.com/projects/arduino-radar-project/. 
+
+
